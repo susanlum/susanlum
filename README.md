@@ -22,6 +22,6 @@
 > ***"Don't wait until everything is just right. It will never be perfect. There will always be challenges, obstacles, and less-than-perfect conditions. So what? Get started now. With each step you take, you will grow stronger and stronger, more and more skilled, more and more self-confident, and more and more successful." -- Mark Victor Hansen***
 
 
-[<img align="left" alt="Python" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][https://www.python.org/about/]
+[<img align="left" alt="Python" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/about/)
 
 [<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](https://www.python.org/about/)
