@@ -12,7 +12,7 @@
 [<img align="left" alt="Python" width="80px" src="https://flowygo.com/wp-content/uploads/2021/06/pandas-logo-300.png" />](https://pandas.pydata.org/docs/getting_started/index.html)
 [<img align="left" alt="Python" width="80px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" />](https://matplotlib.org/)
 [<img align="left" alt="Python" width="80px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" />](https://www.tableau.com/)
-
+[<img align="left" alt="Python" width="80px" src="https://www.pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" />](https://powerbi.microsoft.com/en-au/)
 
 
 📫 Let's connect via: [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
