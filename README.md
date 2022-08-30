@@ -7,7 +7,7 @@
 
 
 
-[3]: https://www.linkedin.com/in/lum-poh-poh-susan-04012183/
+[2]: https://www.linkedin.com/in/lum-poh-poh-susan-04012183/
 [1]: http://www.github.com/susanlum
 
 ---
