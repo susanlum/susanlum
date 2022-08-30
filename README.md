@@ -8,3 +8,7 @@
 [1]: http://www.github.com/susanlum
 [2]: https://www.linkedin.com/in/lum-poh-poh-susan-04012183/
 
+
+<a target="_blank" href="https://icons8.com/icon/52539/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+
+[![github](https://img.icons8.com/nolan/344/github.png][1]
