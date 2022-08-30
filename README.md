@@ -10,7 +10,7 @@
 [<img align="left" alt="Python" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />](https://scikit-learn.org/stable/)
 [<img align="left" alt="Python" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" />](https://numpy.org/)
 [<img align="left" alt="Python" width="80px" src="https://flowygo.com/wp-content/uploads/2021/06/pandas-logo-300.png" />](https://pandas.pydata.org/docs/getting_started/index.html)
-[<img align="left" alt="Python" width="80px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" />][https://pandas.pydata.org/docs/getting_started/index.html](https://matplotlib.org/)
+[<img align="left" alt="Python" width="80px" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" />](https://matplotlib.org/)
 
 
 
