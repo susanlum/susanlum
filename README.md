@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Susan Lum from Penang, Malaysia
-- 🌱 I’m currently learning ..
+- 👋 Hi, I’m @susanlum from Penang, Malaysia
+- 🌱 I’m a Mathematics with Economics graduate from Universiti Malaysia Sabah in 2014
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
