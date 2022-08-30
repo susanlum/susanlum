@@ -13,7 +13,7 @@
 - Favourite Quotes:
 > ***Everything is learnable and masterable***
 > 
-> ***Never forget why you started, and your mission can be accomplished. 不忘初心，方得始终 
+> ***Never forget why you started, and your mission can be accomplished. 不忘初心，方得始终***
 
 
 
