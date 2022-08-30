@@ -10,5 +10,6 @@
 [1]: http://www.github.com/susanlum
 [2]: https://www.linkedin.com/in/lum-poh-poh-susan-04012183/
 
+- Favourite Quotes:
 > **Everything is learnable and masterable**
 
