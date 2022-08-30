@@ -11,5 +11,5 @@
 [2]: https://www.linkedin.com/in/lum-poh-poh-susan-04012183/
 
 - Favourite Quotes:
-> **Everything is learnable and masterable**
+> ***Everything is learnable and masterable***
 
