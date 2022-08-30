@@ -14,6 +14,9 @@
 > ***Everything is learnable and masterable***
 > 
 > ***Never forget why you started, and your mission can be accomplished. 不忘初心，方得始终***
+>
+> ***"Don't wait until everything is just right. It will never be perfect. There will always be challenges, obstacles, and less-than-perfect conditions. So what? Get started now. With each step you take, you will grow stronger and stronger, more and more skilled, more and more self-confident, and more and more successful." -- Mark Victor Hansen***
+
 
 
 
