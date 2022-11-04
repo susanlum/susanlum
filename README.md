@@ -22,7 +22,7 @@
 [<img align="left" alt="Python" width="120px" src="https://www.pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg" />](https://powerbi.microsoft.com/en-au/)
 [<img align="left" alt="Python" width="120px" src="https://www.thesmbguide.com/images/google-data-studio-1024x512-20200915.png" />](https://datastudio.google.com/overview) <br> <br>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<br>
 
 
 - **Favourite Quotes:**
