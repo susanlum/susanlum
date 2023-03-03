@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @susanlum from Penang, Malaysia
-- 🌱 I have attended 14 months Post Graduate Program in Data Science with ![Careerera] (www.careerera.com)
+- 🌱 I have attended 14 months Post Graduate Program in Data Science with ![Careerera][www.careerera.com]
 - 🌱 I’m a Mathematics with Economics graduate from Universiti Malaysia Sabah in 2014
 - 🌱 Past working experience as Commercial Banking Relationship Manager @ OCBC Bank Penang branch from Nov 2014 to June 2022
  
